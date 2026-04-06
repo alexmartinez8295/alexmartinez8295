@@ -15,6 +15,7 @@
 - [x] ☁️ Salesforce
 - [x] 💻😎 Entusiasta en ciberseguridad
 
-[X](https://x.com/alxismh)
-[IG](https://theenthusiast.dev](https://www.instagram.com/alx.is.dev/)
-[RDT](https://www.reddit.com/user/alx_alderson/)
+## Contacto:
+* [X](https://x.com/alxismh)
+* [IG](https://www.instagram.com/alx.is.dev/)
+* [RDT](https://www.reddit.com/user/alx_alderson/)
