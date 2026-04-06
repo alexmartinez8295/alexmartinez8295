@@ -1,3 +1,4 @@
+```
 | - - - - - - - - - - - - - - - - - - |
 |          Hello, friend!             |
 | - - - - - - - - - - - - - - - - - - |
@@ -6,6 +7,7 @@
                 ----
                 |  |
                _|  |_
+```
 
 *Soy bueno leyendo gente. ¿Mi secreto? Busco lo peor en ellos.*
 - [x] Fullstack developer
