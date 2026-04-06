@@ -15,6 +15,8 @@
 - [x] ☁️ Salesforce
 - [x] 💻😎 Entusiasta en ciberseguridad
 
+[![Mis poderes](https://skillicons.dev/icons?i=linux,arch,js,html,css,react,python,cpp,github)](https://skillicons.dev)
+
 ## Contacto:
 * [X](https://x.com/alxismh)
 * [IG](https://www.instagram.com/alx.is.dev/)
